@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="all_true">True</string>
+    <string name="all_false">False</string>
+    <string name="all_previous">Previous</string>
+    <string name="all_next">Next</string>
+    <string name="all_submit">Submit</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="you_completed_the_quiz">You completed the quiz</string>
+    <string name="start_over">Start Over</string>
+    <string name="question_one">Jetpack Compose eliminates the need for XML layouts in Android UI development, officially putting XML on the endangered species list.</string>
+    <string name="question_two">Which component is responsible for managing UI state in Jetpack Compose (without making your app a chaotic mess)?</string>
+    <string name="question_three">Which of the following are benefits of using Jetpack Compose over XML-based UI (besides impressing your coworkers)?</string>
+    <string name="question_four">What is the purpose of the remember function in Jetpack Compose? (And no, it’s not to remember your grocery list.)</string>
+    <string name="answer">Answer</string>
+    <string-array name="question_two_options">
+        <item>ViewModel</item>
+        <item>LiveData (because why not add more observers to your life?)</item>
+        <item>Composable functions (because functions can totally manage state… right?)</item>
+        <item>RecyclerView (wait… isn’t this for lists?)</item>
+    </string-array>
+
+    <string-array name="question_three_options">
+        <item>Declarative UI programming (because writing less code is always a win)</item>
+        <item>Better performance in all cases (if only life were this simple)</item>
+        <item>Improved state management (say goodbye to endless findViewById calls \uD83D\uDE4C)</item>
+        <item>Reduced boilerplate code (Compose is allergic to unnecessary code)</item>
+    </string-array>
+
+
+</resources>
